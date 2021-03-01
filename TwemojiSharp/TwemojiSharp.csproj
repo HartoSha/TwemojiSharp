@@ -8,6 +8,7 @@
     <RepositoryUrl>https://github.com/HartoSha/TwemojiSharp</RepositoryUrl>
     <PackageTags>Twemoji, Emoji, Parsing</PackageTags>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
   </PropertyGroup>
 
   <ItemGroup>
